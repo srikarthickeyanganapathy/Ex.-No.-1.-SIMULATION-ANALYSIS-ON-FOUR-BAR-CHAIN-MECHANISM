@@ -53,10 +53,10 @@
 
 
 ## Output:
+![240235134-b696cf73-f5ad-43a0-9929-ebf212d5db15](https://github.com/srikarthickeyanganapathy/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119393842/f1ff8188-2f64-428f-9830-de2ca95949aa)
 
-
-### Name:
-### Register Number: 
+### Name: SRI KARTHICKEYAN GANAPATHY
+### Register Number: 212222240102
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
